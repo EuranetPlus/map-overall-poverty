@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie weit verbreitet ist Armut in allen EU-Ländern?",
+  "subtitle": "Ungefähr ein Fünftel der EU-Bevölkerung, also 93,3 Millionen Europäer, waren im Jahr 2024 von Armut oder sozialer Ausgrenzung bedroht.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Statistik der Europäischen Union über Einkommen und Lebensbedingungen (EU-SILC) erhebt aktuelle und vergleichbare mehrdimensionale Mikrodaten zu Einkommen, Armut, sozialer Ausgrenzung und Lebensbedingungen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "der Gesamtbevölkerung",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
