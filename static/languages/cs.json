@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak rozšířená je chudoba ve všech zemích EU?",
+  "subtitle": "V roce 2024 byla přibližně pětina obyvatel EU, což představuje 93,3 milionu Evropanů, ohrožena chudobou nebo sociálním vyloučením.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Statistika Evropské unie o příjmech a životních podmínkách (EU-SILC) shromažďuje včasná a srovnatelná vícerozměrná mikrodata o příjmech, chudobě, sociálním vyloučení a životních podmínkách.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "z celkové populace",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
