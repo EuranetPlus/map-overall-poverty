@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik plaši izplatīta ir nabadzība visās ES valstīs?",
+  "subtitle": "Aptuveni piektdaļa ES iedzīvotāju jeb 93,3 miljoni eiropiešu 2024. gadā bija pakļauti nabadzības vai sociālās atstumtības riskam.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Eiropas Savienības statistika par ienākumiem un dzīves apstākļiem (EU-SILC) apkopo savlaicīgus un salīdzināmus daudzdimensionālus mikrodatus par ienākumiem, nabadzību, sociālo atstumtību un dzīves apstākļiem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no kopējā iedzīvotāju skaita",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
