@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hu mifrux il-faqar fil-pajjiżi kollha tal-UE?",
+  "subtitle": "Madwar wieħed minn kull ħamsa tal-popolazzjoni tal-UE, li tammonta għal 93.3 miljun Ewropew, kienu f'riskju ta' faqar jew esklużjoni soċjali fl-2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-Istatistika tal-Unjoni Ewropea dwar id-Dħul u l-Kundizzjonijiet tal-Għajxien (EU-SILC) tiġbor mikrodejta multidimensjonali f'waqtha u komparabbli dwar id-dħul, il-faqar, l-esklużjoni soċjali u l-kundizzjonijiet tal-għajxien.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni totali",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
