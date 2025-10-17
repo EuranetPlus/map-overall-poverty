@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto è diffusa la povertà in tutti i paesi dell'UE?",
+  "subtitle": "Nel 2024, circa un quinto della popolazione dell'UE, pari a 93,3 milioni di europei, era a rischio di povertà o esclusione sociale.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Le statistiche dell'Unione europea sul reddito e sulle condizioni di vita (EU-SILC) raccolgono microdati multidimensionali tempestivi e comparabili su reddito, povertà, esclusione sociale e condizioni di vita.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "della popolazione totale",
   "tooltipExtraInfoLabel": "clicca qui"
 }
