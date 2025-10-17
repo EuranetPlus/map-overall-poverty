@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est l’ampleur de la pauvreté dans tous les pays de l’UE ?",
+  "subtitle": "Environ un cinquième de la population de l’UE, soit 93,3 millions d’Européens, était menacée de pauvreté ou d’exclusion sociale en 2024.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les statistiques de l’Union européenne sur le revenu et les conditions de vie (EU-SILC) collectent des microdonnées multidimensionnelles actuelles et comparables sur le revenu, la pauvreté, l’exclusion sociale et les conditions de vie.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population totale",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
