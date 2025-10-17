@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako razširjena je revščina v vseh državah EU?",
+  "subtitle": "Približno petina prebivalstva EU, kar je 93,3 milijona Evropejcev, je bila leta 2024 ogrožena z revščino ali socialno izključenostjo.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Statistika Evropske unije o dohodkih in življenjskih pogojih (EU-SILC) zbira pravočasne in primerljive večdimenzionalne mikropodatke o dohodkih, revščini, socialni izključenosti in življenjskih pogojih.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "celotnega prebivalstva",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
