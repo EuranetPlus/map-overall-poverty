@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quão disseminada é a pobreza em todos os países da UE?",
+  "subtitle": "Aproximadamente um quinto da população da UE, ou seja, 93,3 milhões de europeus, estava em risco de pobreza ou exclusão social em 2024.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "As Estatísticas da União Europeia sobre Renda e Condições de Vida (EU-SILC) coletam microdados multidimensionais oportunos e comparáveis sobre renda, pobreza, exclusão social e condições de vida.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
+  "customUnitLabel": "da população total",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
